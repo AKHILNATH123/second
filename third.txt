@@ -1,2 +1,3 @@
 reduce the volume
-switch off the TV
+increase the volume
+manage profile
